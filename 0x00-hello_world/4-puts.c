@@ -1,10 +1,20 @@
-#include <stdio.h>
+#include <stdio.h>                                                                                                                      
 
-int main(void)
-{
-	 puts("Programming is like building a multi lingual puzzle\n" );                                                            
+/**                                                                                                                                     
+ *
+ *  * main - Entry                                                                                                                         
+ *
+ *   * Return: Always 0                                                                                                                     
+ *
+ *    */                                                                                                                                     
 
-		         return (0);
+int main(void)                                                                                                                          
+
+{                                                                                                                                       
+
+	        puts("\"Programming is like building a multi lingual puzzle");                                                            
+
+			        return (0);
 
 }
 
