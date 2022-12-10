@@ -1,10 +1,9 @@
-#include <stdio.h>                                                                                                                      
-/** 
+#include <stdio.h>             
+/**
  *  main - prints out a string via puts
- *  Description: program that prints out the code
+ *  Description: program that prints out the string followed by a new line
  *  Return: int 0 when done and no errors        
  */
-
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
