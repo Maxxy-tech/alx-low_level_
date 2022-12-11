@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
  * main - prints out strings through puts
- * description: program that prints out the string is followed by a new line
- * return: int 0 when done and no errors
+ * Description: program that prints out the string is followed by a new line
+ * Return: int 0 when done and no errors
  */
 int main(void)
 {
