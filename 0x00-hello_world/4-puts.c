@@ -1,8 +1,8 @@
-#include <stdio.h>             
+#include <stdio.h>
 /**
- *  main - prints out a string via puts.
- *  Description: program that prints out the string followed by a new line.
- *  Return:always zero.
+ * main -prints out strings through puts
+ * description: program that prints out the string is followed by a new line
+ * return: int zero when done and no errors
  */
 int main(void)
 {
