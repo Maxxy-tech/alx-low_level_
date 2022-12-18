@@ -1,18 +1,22 @@
 #include "main.h"
 /**
- * main - alphabet
- * print_alphabet_x10 - print  a - z ten times
+ * print_alphabet_x10 - prins the alphabets in lower case x10
+ * Return: nothing on success
  */
 void print_alphabet_x10(void)
 {
-int i;
-char  j; 
-for (i = 0; i < 10; i++)
+int start = 97, end = 122, count = 1;
+while
+(count <= 10)
 {
-for (j = 'a'; j <= 'z'; j++)
+while
+(start <= end)
 {
-_putchar(j);
+_putchar(start);
+start++;
 }
 _putchar('\n');
+start = 97;
+count++;
 }
 }
